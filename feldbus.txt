@@ -1,0 +1,10 @@
+            Slaves  Bytes Speed       Distance  Company   Physical    Comments
+Profibus    1-124         9.6-12Mb/s  100-1200m Siemens   EIA-485     NOT royalty-free
+Profinet    no limit                            Siemens   IEEE 802.3 
+Modbus      126                                 Schneider IEEE 802.3  royalty-free
+EthernetIP  no limit                            Rockwell  IEEE 802.3 open
+Ethercat    65536          100Mb/s              Beckhoff  IEEE 802.3 open
+Canopen     127                                           EIA-485 
+SercosIII   511            100Mb/s                        IEEE 802.3 
+Devicenet   64
+Controlnet  99
